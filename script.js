@@ -1,6 +1,6 @@
-let radius = 310;
-let autoRotate = false;
-let rotateSpeed = -60;
+let radius = 290;
+let autoRotate = true;
+let rotateSpeed = -100;
 let imgWidth = 140;
 let imgHeight = 205;
 setTimeout(init, 300);
